@@ -1,0 +1,4 @@
+#Mon Oct 14 19:53:35 IST 2019
+base.0=/home/vivek/Desktop/App/ShowApp/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
